@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "zx-ui",
+  base: "/zx-ui/",
   description: "自己写的组件库",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
