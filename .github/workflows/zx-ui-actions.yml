@@ -2,7 +2,7 @@ name: zx UI deploy
 run-name: ${{ github.actor }} 运行 GitHub Actions 🚀
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 jobs:
   test:
     name: Run Lint and Test
