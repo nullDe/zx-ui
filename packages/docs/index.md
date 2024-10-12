@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "zx-ui"
-  text: "自己写的组件库"
+  text: "自己写的组件库,练手用的"
   tagline: My great project tagline
   actions:
     - theme: brand
